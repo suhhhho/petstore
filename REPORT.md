@@ -1,7 +1,7 @@
 # Swagger Petstore API Test Report
 
 ## Candidate
-- Name: <Sofja Portnova>
+- Name: Sofja Portnova
 - Date: 2026-04-20
 - Framework: Playwright Test (JavaScript)
 - Base URL: https://petstore.swagger.io/v2
