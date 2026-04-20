@@ -1,0 +1,22 @@
+{
+  "name": "petstore-api-tests",
+  "version": "1.0.0",
+  "description": "Automated API tests for Swagger Petstore",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright show-report"
+  },
+  "keywords": [
+    "api-testing",
+    "playwright",
+    "swagger-petstore",
+    "qa"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1"
+  }
+}
